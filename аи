@@ -320,3 +320,6 @@ document.getElementById('form').addEventListener('submit', e => {
 </script>
 </body>
 </html>
+git add .
+git commit -m "add website"
+git push
